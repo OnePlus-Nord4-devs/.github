@@ -1,6 +1,6 @@
 # OnePlus Nord 4
 
-![OnePlus Nord 4](URL_to_your_image)
+![OnePlus Nord 4] (https://github.com/OnePlus-Nord4-devs/.github/blob/main/profile/download%20(1).jpeg)
 
 ## Overview
 The OnePlus Nord 4 is a powerful and stylish smartphone designed for performance and usability. With its sleek design and advanced features, it's perfect for tech enthusiasts and casual users alike.
